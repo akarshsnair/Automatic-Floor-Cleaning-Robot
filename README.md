@@ -13,3 +13,21 @@ System (ROS), the robot's capabilities are
 enhanced, allowing seamless communication
 between its various components for improved
 efficiency and performance
+
+### Objective
+The system will be programmed in Python with rospy
+libraries, enabling seamless communication between
+Raspberry Pi and ROS nodes for effective control and
+data exchange. Key goals include:
+<ul>Building a robust robot platform integrating
+Raspberry Pi for control.</ul>
+<ul>
+Implementing object detection for collision
+avoidance during navigation.</ul>
+
+<ul>Creating a structured ROS software architecture with Python and rospy. Developing path planning and cleaning algorithmsx
+for efficient floor cleaning.</ul>
+<ul>Integrating a vacuum mechanism for effective
+cleaning.</ul>
+<ul>Designing a user-friendly interface for easy
+cleaning of the floor</ul>
