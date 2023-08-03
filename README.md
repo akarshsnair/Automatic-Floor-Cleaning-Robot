@@ -5,7 +5,7 @@ innovative project that explores the integration
 of robotics and automation technology into
 everyday cleaning tasks. This project aims to
 design and develop an autonomous robot
-capable of efficiently navigating and cleaning
+capable of cleaning
 indoor environments, thereby revolutionizing
 traditional floor cleaning methods. By
 leveraging the power of the Robot Operating
