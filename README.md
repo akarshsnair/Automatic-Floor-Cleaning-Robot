@@ -31,3 +31,17 @@ for efficient floor cleaning.</ul>
 cleaning.</ul>
 <ul>Designing a user-friendly interface for easy
 cleaning of the floor</ul>
+
+### Working
+<li>The Ultrasonic Sensor detects obstacles and relays data to
+the Raspberry Pi 4.</li>
+<li>The Raspberry Pi 4 processes the sensor data and
+determines the optimal cleaning path, sending commands
+to the L298N Motor Driver Module.</li>
+<li>The Motor Driver Module controls the robot's movement,
+allowing it to navigate around obstacles while cleaning
+efficiently.</li>
+<li>The mop and vacuum are activated by the Servo Motor,
+providing a dual-cleaning mechanism for spotless floors.</li>
+<li>The robot operates autonomously, maximizing cleaning
+coverage and minimizing human intervention.</li>
