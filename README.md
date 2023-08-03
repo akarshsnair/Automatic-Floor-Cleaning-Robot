@@ -19,11 +19,11 @@ The system will be programmed in Python with rospy
 libraries, enabling seamless communication between
 Raspberry Pi and ROS nodes for effective control and
 data exchange. Key goals include:
-<ul>Building a robust robot platform integrating
-Raspberry Pi for control.</ul>
-<ul>
+<li>Building a robust robot platform integrating
+Raspberry Pi for control.</li>
+<li>
 Implementing object detection for collision
-avoidance during navigation.</ul>
+avoidance during navigation.</li>
 
 <li>Creating a structured ROS software architecture with Python and rospy. Developing path planning and cleaning algorithms
 for efficient floor cleaning.</li>
