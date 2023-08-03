@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 import rospy
 from std_msgs.msg import Float32
 import RPi.GPIO as GPIO
@@ -43,7 +42,6 @@ def distance_publisher():
         distance = get_distance()
         distance_pub.publish(distance)
         rate.sleep()
-
 if __name__ == '__main__':
     try:
         distance_publisher()
