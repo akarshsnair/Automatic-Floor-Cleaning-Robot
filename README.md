@@ -49,6 +49,10 @@ coverage and minimizing human intervention.</li>
 ## ROS Flow Diagram 
 ![Screenshot 2023-08-03 174817](https://github.com/akarshsnair/Automatic-Floor-Cleaning-Robot/assets/92806180/92a412ee-43fe-4d79-9ece-79fd6432c457)
 
-### Program Work Flow
+## Program Work Flow
 ![Screenshot 2023-08-03 175203](https://github.com/akarshsnair/Automatic-Floor-Cleaning-Robot/assets/92806180/c2880cb8-de2c-4ba4-b4d0-ef436ff86da0)
+
+## Robot 
+![Screenshot 2023-08-03 175842](https://github.com/akarshsnair/Automatic-Floor-Cleaning-Robot/assets/92806180/96a248de-b15c-4aba-8603-332334833f3b)
+
 
