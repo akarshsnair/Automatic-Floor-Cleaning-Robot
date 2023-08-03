@@ -1,5 +1,5 @@
 # AutomaticFloor Cleaning Robot using ROS
-### <u>Introduction
+## <u>Introduction
 The Floor Cleaning Robot using ROS is an
 innovative project that explores the integration
 of robotics and automation technology into
@@ -14,7 +14,7 @@ enhanced, allowing seamless communication
 between its various components for improved
 efficiency and performance
 
-### Objective
+## Objective
 The system will be programmed in Python with rospy
 libraries, enabling seamless communication between
 Raspberry Pi and ROS nodes for effective control and
@@ -25,14 +25,14 @@ Raspberry Pi for control.</li>
 Implementing object detection for collision
 avoidance during navigation.</li>
 
-<li>Creating a structured ROS software architecture with Python and rospy. Developing path planning and cleaning algorithms
+<li>Creating a structured ROS software architecture with Python and rospy. Developing  cleaning algorithms
 for efficient floor cleaning.</li>
 <li>Integrating a vacuum mechanism for effective
 cleaning.</li>
 <li>Designing a user-friendly interface for easy
 cleaning of the floor</li>
 
-### Working
+## Working
 <li>The Ultrasonic Sensor detects obstacles and relays data to
 the Raspberry Pi 4.</li>
 <li>The Raspberry Pi 4 processes the sensor data and
@@ -46,7 +46,7 @@ providing a dual-cleaning mechanism for spotless floors.</li>
 <li>The robot operates autonomously, maximizing cleaning
 coverage and minimizing human intervention.</li>
 
-### ROS Flow Diagram 
+## ROS Flow Diagram 
 ![Screenshot 2023-08-03 174817](https://github.com/akarshsnair/Automatic-Floor-Cleaning-Robot/assets/92806180/92a412ee-43fe-4d79-9ece-79fd6432c457)
 
 ### Program Work Flow
