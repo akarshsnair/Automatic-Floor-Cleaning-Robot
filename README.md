@@ -45,3 +45,6 @@ efficiently.</li>
 providing a dual-cleaning mechanism for spotless floors.</li>
 <li>The robot operates autonomously, maximizing cleaning
 coverage and minimizing human intervention.</li>
+
+### ROS Flow Diagram 
+![Screenshot 2023-08-03 174817](https://github.com/akarshsnair/Automatic-Floor-Cleaning-Robot/assets/92806180/92a412ee-43fe-4d79-9ece-79fd6432c457)
