@@ -81,9 +81,7 @@ def get_distance():
         StopTime_FRONT = time.time()
  
     TimeElapsed_FRONT = StopTime_FRONT - StartTime_FRONT
-
     distance_FRONT = math.floor((TimeElapsed_FRONT * 34300) / 2)
-
     return (distance_FRONT)
 
 
