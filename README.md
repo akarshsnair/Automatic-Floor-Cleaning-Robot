@@ -25,19 +25,19 @@ Raspberry Pi for control.</ul>
 Implementing object detection for collision
 avoidance during navigation.</ul>
 
-<ul>Creating a structured ROS software architecture with Python and rospy. Developing path planning and cleaning algorithmsx
-for efficient floor cleaning.</ul>
-<ul>Integrating a vacuum mechanism for effective
-cleaning.</ul>
-<ul>Designing a user-friendly interface for easy
-cleaning of the floor</ul>
+<li>Creating a structured ROS software architecture with Python and rospy. Developing path planning and cleaning algorithms
+for efficient floor cleaning.</li>
+<li>Integrating a vacuum mechanism for effective
+cleaning.</li>
+<li>Designing a user-friendly interface for easy
+cleaning of the floor</li>
 
 ### Working
 <li>The Ultrasonic Sensor detects obstacles and relays data to
 the Raspberry Pi 4.</li>
 <li>The Raspberry Pi 4 processes the sensor data and
 determines the optimal cleaning path, sending commands
-to the L298N Motor Driver Module.</li>
+to the L298N Motor Driver.</li>
 <li>The Motor Driver Module controls the robot's movement,
 allowing it to navigate around obstacles while cleaning
 efficiently.</li>
