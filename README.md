@@ -1,5 +1,4 @@
-# Automatic-Floor-Cleaning-Robot
-## Floor Cleaning Robot implemented using ROS
+# AutomaticFloor Cleaning Robot using ROS
 ### Introduction
 The Floor Cleaning Robot using ROS is an
 innovative project that explores the integration
