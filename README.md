@@ -7,7 +7,7 @@ everyday cleaning tasks. This project aims to
 design and develop an autonomous robot
 capable of cleaning
 indoor environments, thereby revolutionizing
-traditional floor cleaning methods. By
+the traditional floor cleaning methods. By
 leveraging the power of the Robot Operating
 System (ROS), the robot's capabilities are
 enhanced, allowing seamless communication
